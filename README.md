@@ -5,6 +5,6 @@
 ## Build Setup
 
 ``` bash
-# run all serve
+# run
 npm run serve
 ```
